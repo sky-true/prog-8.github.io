@@ -1,3 +1,7 @@
 .title {
     color: #02ccba;
   }
+p {
+  /* 文字の色を#0000ffに*/
+  color: #0000ff;
+}
