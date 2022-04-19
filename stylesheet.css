@@ -1,10 +1,10 @@
 .title {
-    font-size: 40px;
+    font-size: 80px;
     color: #02ccba;
   }
 
 p {
     /* 文字の色を#0000ffに*/
     color: #0000ff;
-    font-size: 20px;
+    font-size: 40px;
 }
